@@ -2,6 +2,6 @@
   "hubot-apiai",
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
-  "hubot-auth-middleware",
+  "hubot-auth-middleware-ext",
   "hubot-auth"
 ]
