@@ -1,5 +1,7 @@
 [
   "hubot-apiai",
   "hubot-heroku-keepalive",
-  "hubot-redis-brain"
+  "hubot-redis-brain",
+  "hubot-auth-middleware",
+  "hubot-auth"
 ]
