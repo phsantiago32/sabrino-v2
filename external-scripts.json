@@ -3,5 +3,5 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-auth-middleware-ext",
-  "hubot-auth"
+  "hubot-auth-persistent"
 ]
