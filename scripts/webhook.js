@@ -4,7 +4,7 @@
 
 module.exports = function (robot) {
 
-	robot.router.post('/splunk/:room', function (req, res) {
+	robot.router.post('/hello/:room', function (req, res) {
 		var room = req.params.room;
 		robot.emit('telegram:invoke', 'sendMessage', {
 			chat_id: room,
