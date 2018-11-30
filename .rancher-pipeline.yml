@@ -11,7 +11,7 @@ stages:
   steps:
   - runScriptConfig:
       image: technosophos/slack-notify
-      shellScript: slack-notify
+      shellScript: echo Go!
     env:
       SLACK_COLOR: '#0000ff'
       SLACK_MESSAGE: 'Your app has been published and deployed! Congrats! :sparkles:'
