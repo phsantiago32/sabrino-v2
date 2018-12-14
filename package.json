@@ -1,5 +1,5 @@
 {
-  "name": "sabrino",
+  "name": "SabrinoBot",
   "version": "0.0.0",
   "private": true,
   "author": "Pedro Santiago <phsantiago32@gmail.com>",
@@ -9,6 +9,7 @@
     "hubot-help": "^1.0.1",
     "hubot-heroku-keepalive": "^1.0.3",
     "hubot-scripts": "^2.17.2",
+    "hubot-shell": "^1.0.2",
     "hubot-telegram": "^0.1.2"
   },
   "engines": {
