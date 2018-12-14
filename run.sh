@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./bin/hubot -a telegram --name "SabrinoBot" "$@"
+./bin/hubot -a telegram-better --name "SabrinoBot" "$@"

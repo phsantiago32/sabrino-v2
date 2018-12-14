@@ -4,5 +4,6 @@ set -e
 
 npm install
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
+export TELEGRAM_TOKEN="491068676:AAEP2i5bvGFVYJ2pJikGUn5kqzdWG7jEGCQ"
 
 exec node_modules/.bin/hubot --name "SabrinoBot" "$@"

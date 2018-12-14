@@ -1,1 +1,1 @@
-web: bin/hubot -a telegram --name "SabrinoBot" "$@"
+web: bin/hubot -a telegram-better --name "SabrinoBot" "$@"
